@@ -7,7 +7,6 @@ Desain visual dan palet warna (Sand, Blue, Green, Orange) pada slide ini disesua
 Fitur Utama Slide
 - Data Administratif: Tabel sebaran wilayah budaya berdasarkan kode BPS.
 - KPI Highlight: Animasi/sorotan visual untuk total 27.000 pelaku budaya aktif.
-- Visualisasi Komponen: Diagram donat (proporsi kategori) dan diagram batang (sebaran per kabupaten) berbasis CSS murni.
 - Analisis Kelestarian: Pemetaan status tradisi yang 'Sangat Terawat' hingga yang 'Butuh Regenerasi'.
 - Timeline Frekuensi: Garis waktu interaktif pelaksanaan budaya (Harian, Bulanan, Musiman, Tahunan).
 
