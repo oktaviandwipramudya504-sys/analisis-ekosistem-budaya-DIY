@@ -1,6 +1,6 @@
 Analisis Ekosistem Budaya DIY 2026
 
-Proyek ini adalah sebuah presentasi interaktif (digital slide deck) berbasis web yang menyajikan analisis data mengenai ekosistem, pelaku aktif, dan status kelestarian budaya di Daerah Istimewa Yogyakarta (DIY) untuk tahun 2026. 
+Proyek ini adalah sebuah presentasi interaktif berbasis power bi yang menyajikan analisis data mengenai ekosistem, pelaku aktif, dan status kelestarian budaya di Daerah Istimewa Yogyakarta (DIY) untuk tahun 2026. 
 
 Desain visual dan palet warna (Sand, Blue, Green, Orange) pada slide ini disesuaikan sepenuhnya dengan model diagram dan dashboard Power BI untuk menjaga konsistensi visual.
 
